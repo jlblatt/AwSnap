@@ -26,4 +26,8 @@ Confirmed bug in Chrome 41, 42, & 43 on MacOS and Windows in Browserstack.
 
 ###### April 5th, 2015 - 9:30pm
 
-Confirmed bug in Ubuntu and Chrome OS
+Confirmed bug in ~~Ubuntu and~~ Chrome OS
+
+###### April 5th, 2015 - 10:00pm
+
+Jumped the gun, mixed reports on Ubuntu
