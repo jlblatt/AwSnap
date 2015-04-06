@@ -31,3 +31,7 @@ Confirmed bug in ~~Ubuntu and~~ Chrome OS
 ###### April 5th, 2015 - 10:00pm
 
 Jumped the gun, mixed reports on Ubuntu
+
+###### April 5th, 2015 - 10:05pm
+
+Bug occurs on http:// only (https:// works fine)
