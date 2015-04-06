@@ -4,7 +4,7 @@
 
 At the time of publishing (April 5th, 2015) Chrome 41+ seems to crash on long and/or malformed URLs. The crash only occurs when accessing the link through a webserver (i.e. using file:// will *not* crash).
 
-As a proof of concept that this bug has the potential for abuse, [here is a reddit thread that crashes Chrome because of the content of a user-submitted comment](url forthcoming).
+As a proof of concept that this bug has the potential for abuse, [here is a reddit thread that crashes Chrome](http://www.reddit.com/r/webdev/comments/31kumu/this_post_crashes_chrome/) because of the content of a user-submitted post.  Crashing a thread via a comment [is also possible](http://www.reddit.com/r/test/comments/31ktcq/chrome_crash_demo_via_user_comment/).
 
 #### Examples URLs that cause the crash:
 
