@@ -20,6 +20,10 @@ As a proof of concept that this bug has the potential for abuse, [here is a redd
 
 ### Updates:
 
-###### April 5th, 2015
+###### April 5th, 2015 - 8:00pm
 
 Confirmed bug in Chrome 41, 42, & 43 on MacOS and Windows in Browserstack.
+
+###### April 5th, 2015 - 9:30pm
+
+Confirmed bug in Ubuntu and Chrome OS
