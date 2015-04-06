@@ -39,3 +39,7 @@ Bug occurs on http:// only (https:// works fine)
 ###### April 6th, 2015 - 12:20am
 
 Issue likely tracked down to [this bug](https://code.google.com/p/chromium/issues/detail?id=464270), fixed [here](https://codereview.chromium.org/1007323003).  Thanks to jgunsch for their [submission to HN](https://news.ycombinator.com/item?id=9326347).
+
+###### April 6th, 2015 - 3:20am
+
+"Aw, Snap!" is different than "He's Dead, Jim" errors in Chrome- I can't say for certain which were which at this point- I'm pretty sure most were 'Aw Snap' errors (hence the name).  See [proof](http://www.reddit.com/r/webdev/comments/31kumu/this_post_crashes_chrome/cq2r387), hopefully ;)
