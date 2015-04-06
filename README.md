@@ -38,4 +38,3 @@ Bug occurs on http:// only (https:// works fine)
 
 ###### April 6th, 2015 - 12:20am
 
-Issue likely tracked down to [this bug](https://code.google.com/p/chromium/issues/detail?id=464270), fixed [here](https://codereview.chromium.org/1007323003).  Thanks to jgunsch for his [submission to HN](https://news.ycombinator.com/item?id=9326347).
