@@ -1,6 +1,6 @@
 # AwSnap
 
-#### Update: 4/7/2015 - This is unlikely to work anymore, please see all updates [below](#updates).
+#### Update: 4/7/2015 - This is likely patched by now, for more info please see all updates [below](#updates).
 
 * * *
 
